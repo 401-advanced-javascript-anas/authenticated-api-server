@@ -2,7 +2,7 @@
 
 const mongoose = require('mongoose');
 
-const server = require('./lib/server');
+const server = require('./src/server');
 
 const MONGODB_URI = 'mongodb://localhost:27017/lab11';
 
